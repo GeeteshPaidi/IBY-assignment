@@ -8,6 +8,8 @@
 
 Lightweight CLI that searches arXiv for papers on a topic and generates **summaries** using a fine-tuned TinyLlama model (LoRA). Output is minimal: title and summary only.
 
+<img width="1251" height="789" alt="image" src="https://github.com/user-attachments/assets/1103b1b1-988b-4c64-a7f4-725ab31d5ae8" />
+
 ## Project Structure
 
 ```
