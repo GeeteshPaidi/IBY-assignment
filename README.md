@@ -1,8 +1,8 @@
 # AI Research Assistant
 
-Name: Paidi Geetesh Chandra
-University: Indian Institute of Technology Kharagpur
-Department: Metallurgical and Materials Engineering
+Name: Paidi Geetesh Chandra   
+University: Indian Institute of Technology Kharagpur   
+Department: Metallurgical and Materials Engineering   
 
 ## Overview
 
