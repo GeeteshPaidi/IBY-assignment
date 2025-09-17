@@ -30,7 +30,5 @@ This log captures key interactions and prompts used while building the AI agent.
 
 **4. Final Submission**
 - Context: Once the agent was fully functional, I needed to prepare the project for submission.
-- My prompt:
-  Cool, done. Now help me with the Git steps—what files to ignore, what files to upload, and so on.
-
+- My prompt: Cool, done. Now help me with the Git steps—what files to ignore, what files to upload, and so on.
 - Outcome: The assistant provided a .gitignore file, and helped me create this interaction log.
